@@ -1,4 +1,4 @@
-v.1.0.4
+v.1.0.5
 # Reverse Words 
 
 **Get reverse word**
